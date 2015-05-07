@@ -31,3 +31,12 @@ ubirch Showcase
 
 Wir haben die ubirch GmbH bei der Umsetzung eines Showcase auf der re-publica 2015 unterstützt. ubirch ist eine sehr spannendes technisches Kunstprojekt. Es bringt ein Europa weites Sensornetz und Design Lampen auf spannende Art und Weise zusammen.
 http://ubirch.com
+
+
+Vor allem in dieser Bereichen verfügen wir über umfangreiche Projekterfahrungen:
+
+  Konzeption und Umsetzung von Mobile Apps (Android, iOS und hybride Apps)
+  Integration von Verschlüsselungstechnik (Cryptographie)
+  Datenanalyse großer Datenmengen (BigData)
+  Planung und Abwicklung von TV/Video Angeboten (Broadcast und Web)
+  Video Encoding/Streaming
