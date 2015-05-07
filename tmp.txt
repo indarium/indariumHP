@@ -4,14 +4,6 @@ Als Proof-of-Concept haben wir zusammen mit der meta.morph Medien GmbH für das 
 http://hbbtvplugin.indarium.de/Senderportal-BB-MV/index_ce.html?stationID=LTV (PC Variante für Google Chrome)
 
 
-
-ubirch Showcase
-
-Wir haben die ubirch GmbH bei der Umsetzung eines Showcase auf der re-publica 2015 unterstützt. ubirch ist eine sehr spannendes technisches Kunstprojekt. Es bringt ein Europa weites Sensornetz und Design Lampen auf spannende Art und Weise zusammen.
-http://ubirch.com
-
-
-
 Medienanstalt Berlin-Brandenburg  (mabb) / Medienanstalt Mecklenburg-Vorpommern (mmv)
 
 Im Rahmen des Projektes Corazon (Vernetzung 2) entstand eine zentralisierte Play-out Lösung für Lokal-TV in Berlin. Wir haben die Ausschreibung und die Umsetzung als technischer Berater begleitet. Bis heute unterstützen wir das Projekt bei technischen Fragestellungen.
@@ -21,6 +13,12 @@ http://www.medienanstalt-mv.de/
 http://mabb.de
 
 ----------------------------------------------------------------
+ubirch Showcase
+
+Wir haben die ubirch GmbH bei der Umsetzung eines Showcase auf der re-publica 2015 unterstützt. ubirch ist eine sehr spannendes technisches Kunstprojekt. Es bringt ein Europa weites Sensornetz und Design Lampen auf spannende Art und Weise zusammen.
+http://ubirch.com
+
+
 Yukoono
 
 Yukoono ist eine der erten multiplattform Video on Demand Lösungen gewesen. Von Anfang an war die zentrale Idee dem Nutzer den Videogenuß Mobil, mit dem Smart TV und dem PC gleichermaßen zu ermöglichen.
