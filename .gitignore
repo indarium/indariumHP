@@ -1,4 +1,7 @@
-.idea/
-.settings/
-.project
-website.iml
+/.settings
+*.DS_Store
+/.idea
+/*.iml
+/.idea_modules
+/.classpath
+/.project
