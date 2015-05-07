@@ -1,7 +1,15 @@
-Yukoono
+HbbTV Plugin
 
-Yukoono ist eine der erten multiplattform Video on Demand Lösungen gewesen. Von Anfang an war die zentrale Idee dem Nutzer den Videogenuß Mobil, mit dem Smart TV und dem PC gleichermaßen zu ermöglichen.
-http://yukoono.com
+Als Proof-of-Concept haben wir zusammen mit der meta.morph Medien GmbH für das Projekt Corazon ein HbbTV Angebot für 10 Lokal-TV Sender aus Brandenburg und Mecklenburg-Vorpommern. Der besondere Fokus lag hier auf einer vollständigen Automatisierung der Inhaltebereitstellung auf Basis der neu geschaffenen Corazon APIs.
+http://hbbtvplugin.indarium.de/Senderportal-BB-MV/index_ce.html?stationID=LTV (PC Variante für Google Chrome)
+
+
+
+ubirch Showcase
+
+Wir haben die ubirch GmbH bei der Umsetzung eines Showcase auf der re-publica 2015 unterstützt. ubirch ist eine sehr spannendes technisches Kunstprojekt. Es bringt ein Europa weites Sensornetz und Design Lampen auf spannende Art und Weise zusammen.
+http://ubirch.com
+
 
 
 Medienanstalt Berlin-Brandenburg  (mabb) / Medienanstalt Mecklenburg-Vorpommern (mmv)
@@ -12,6 +20,11 @@ http://mabb.de/information/tv/lokal-tv.html
 http://www.medienanstalt-mv.de/
 http://mabb.de
 
+----------------------------------------------------------------
+Yukoono
+
+Yukoono ist eine der erten multiplattform Video on Demand Lösungen gewesen. Von Anfang an war die zentrale Idee dem Nutzer den Videogenuß Mobil, mit dem Smart TV und dem PC gleichermaßen zu ermöglichen.
+http://yukoono.com
 
 JayMob
 
@@ -19,18 +32,6 @@ Zusammen mit der JacksonMobile GmbH und der memo St. Gallen AG (1to1mobile) habe
 JayMob bietet ein sehr breites Spektrum an Möglichkeiten Kunden Produktinformationen auf Smartphones oder Tablets zur Verfügung zu stellen. QR-Codes, SMS/Email Versand und Callin Nummer stehen als Wege zum Kunden zur Verfügung. Eingesetzt wird JayMob u.a. von der T-Systems, dem Automobilclub der Schweiz und der Concordia Versicherung.
 https://1to1mobile.eu
 http://www.jacksonmobile.de/
-
-
-HbbTV Plugin
-
-Als Proof-of-Concept haben wir zusammen mit der meta.morph Medien GmbH für das Projekt Corazon ein HbbTV Angebot für 10 Lokal-TV Sender aus Brandenburg und Mecklenburg-Vorpommern. Der besondere Fokus lag hier auf einer vollständigen Automatisierung der Inhaltebereitstellung auf Basis der neu geschaffenen Corazon APIs.
-http://hbbtvplugin.indarium.de/Senderportal-BB-MV/index_ce.html?stationID=LTV (PC Variante für Google Chrome)
-
-
-ubirch Showcase
-
-Wir haben die ubirch GmbH bei der Umsetzung eines Showcase auf der re-publica 2015 unterstützt. ubirch ist eine sehr spannendes technisches Kunstprojekt. Es bringt ein Europa weites Sensornetz und Design Lampen auf spannende Art und Weise zusammen.
-http://ubirch.com
 
 
 Vor allem in dieser Bereichen verfügen wir über umfangreiche Projekterfahrungen:
