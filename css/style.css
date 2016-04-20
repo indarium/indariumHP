@@ -162,12 +162,16 @@
 /* Section/Article */
 
 	.content {
-		margin: 40px 0px 0px 50px;
+		margin: 40px 50px 50px 50px;
 	}
 
 	.content h4 {
 		line-height: 1.25em;
 		margin-bottom: 5px;
+	}
+
+	.content .content {
+		margin-top: 0px;
 	}
 
 	section.special, article.special {
@@ -466,6 +470,18 @@
 			display: none;
 		}
 
+	.rounded {
+		background: #45597A;
+		border-radius: 100%;
+		color: #ffffff;
+		width: 1.8em;
+		height: 1.8em;
+		left: 0;
+		line-height: 1.8em;
+		text-align: center;
+		top: 0;
+		margin-right: 15px;
+	}
 /* Image */
 
 	.image {
@@ -915,7 +931,7 @@
 /* Features */
 
 	.features article {
-		border-top: solid 3px #f4f4f4;
+		border-top: solid 2px #e4e4e4;
 		margin-bottom: 2.25em;
 		padding-top: 2.25em;
 	}
