@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.4//EN
+N:Fiß;Beate;;;
+FN:Beate Fiß
+ORG:indarium GmbH;
+TITLE:Senior Developer
+EMAIL;type=INTERNET;type=WORK;type=pref:beate.fiss@indarium.de
+TEL;type=CELL;type=VOICE;type=pref:+49 172 526 898 3
+TEL;type=WORK;type=FAX:+49-30-23320772012
+ADR;type=WORK;type=pref:;;Spittastr. 13;Berlin;;10317;Germany
+item1.ADR:;;Geusenstr. 2;Berlin;;10317;Germany
+item1.X-ABLabel:office
+NOTE:PGP: 4232 4898 F238 0B8F 3161\n         311E 784E 5F51 6489 E78F\n\n
+URL;type=WORK;type=pref:http://indarium.de
+CATEGORIES:VCards
+X-ABUID:D2355F77-32FE-4C26-A2F2-E0270786B4CC:ABPerson
+END:VCARD
